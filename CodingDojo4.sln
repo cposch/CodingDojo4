@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27004.2010
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodingDojo4", "CodingDojo4\CodingDojo4.csproj", "{AE43F238-3BAB-46FB-9317-1D636F0CCC22}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CD4_Client", "CodingDojo4\CD4_Client.csproj", "{AE43F238-3BAB-46FB-9317-1D636F0CCC22}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
